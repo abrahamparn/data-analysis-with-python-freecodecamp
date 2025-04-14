@@ -63,7 +63,7 @@ The unit tests for this project are in `test_module.py`. We imported the tests f
 
 ## Notes
 
-In case you want to run it in your local, you need to install numpy. To install, you can do:
+In case you want to run it in your local, you need to install seaborn. To install, you can do:
 
 ```
 pip install seaborn
