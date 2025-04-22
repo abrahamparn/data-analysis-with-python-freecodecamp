@@ -82,6 +82,6 @@ To run these projects locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/data_analysis_with_python_freecodecamp.git
+   git clone https://github.com/abrahamparn/data-analysis-with-python-freecodecamp.git
    cd data_analysis_with_python_freecodecamp
    ```
